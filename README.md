@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @astro-19
+- 👋 Hi, I’m Pushkar Pandey.
 - 👀 I’m interested in Full Stack Web Developer
 - 🌱 I’m currently learning JavaScript, MEAN and MERN stack.
 - 💞️ I’m looking to collaborate on Angular, React Projects.
