@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @astro-19
 - 👀 I’m interested in Full Stack Web Developer
 - 🌱 I’m currently learning JavaScript, MEAN and MERN stack.
-- 💞️ I’m looking to collaborate on Angular, React and Django Projects
+- 💞️ I’m looking to collaborate on Angular, React Projects.
 - 📫 How to reach me email me @ pushkartas2418@gmail.com
 
 <!---
