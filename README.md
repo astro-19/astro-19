@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pushkar Pandey.
 - 👀 I’m interested in Full Stack Web Developer
-- 🌱 I’m currently learning JavaScript, MEAN and MERN stack.
+- 🌱 I’m currently learning JavaScript and MERN stack.
 - 💞️ I’m looking to collaborate on Angular, React Projects.
-- 📫 How to reach me email me @ pushkartas2418@gmail.com
+- 📫 How to reach me email me @ pushkarpandey154@gmail.com
