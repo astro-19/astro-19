@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pushkar Pandey Frontend developer.
-- 👀 I’m interested in Full Stack Web Developer with ML and AI.
-- 🌱 I’m currently learning Nodejs and Database.
-- 💞️ I’m looking to collaborate on React, Shopify Projects.
+- 👀 I’m interested in a Full Stack Web Developer with ML and AI.
+- 🌱 I’m currently learning Nodejs, Python, and SQL.
+- 💞️ I’m looking to collaborate on React Js and Shopify Projects.
 - 📫 How to reach me email me @ pushkarpandey154@gmail.com
